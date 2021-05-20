@@ -9,5 +9,6 @@ body {
 #svg{
   background-color: darkseagreen;
   background: radial-gradient(darkseagreen 0%, black 70%);
-  width: 500px;
+  width: 800px;
 }
+body{text-align:center}
